@@ -1,5 +1,7 @@
 # JuceTutorialPlugin
-Juce Tutorial Plugin. https://docs.juce.com/master/tutorial_code_basic_plugin.html
+Juce Tutorial Plugin. https://docs.juce.com/master/tutorial_code_basic_plugin.html  
+A MIDI Effect plugin to set velocity. 
+
 
 ## Create Project
 [![Image from Gyazo](https://i.gyazo.com/e44c346461f0e55cd5d5be941f3c3c89.png)](https://gyazo.com/e44c346461f0e55cd5d5be941f3c3c89)
