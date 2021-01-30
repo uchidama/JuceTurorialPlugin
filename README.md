@@ -23,5 +23,8 @@ Juce Tutorial Plugin. https://docs.juce.com/master/tutorial_code_basic_plugin.ht
 
 [![Image from Gyazo](https://i.gyazo.com/334532fe2994d8b330fb1ed82b02be00.png)](https://gyazo.com/334532fe2994d8b330fb1ed82b02be00)
 
-Juce Turorial Plugin. https://docs.juce.com/master/tutorial_code_basic_plugin.html
+The only MIDI effects you can put in a track before an instrument are the Ableton ones.  
+Anything else has to go on its own track, and have MIDI routed through it into an instrument track.  
 
+### Referenced links
+[MIDI Effect For Ableton](https://forum.juce.com/t/midi-effect-for-ableton/32455/12)
