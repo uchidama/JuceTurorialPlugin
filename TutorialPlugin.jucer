@@ -3,7 +3,7 @@
 <JUCERPROJECT id="ijLBLm" name="TutorialPlugin" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1"
               pluginCharacteristicsValue="pluginProducesMidiOut,pluginWantsMidiIn"
-              pluginVST3Category="Fx" pluginFormats="buildAUv3,buildVST3" pluginAUMainType="'aufx'">
+              pluginVST3Category="Fx" pluginFormats="buildVST3" pluginAUMainType="'aufx'">
   <MAINGROUP id="yEh6jR" name="TutorialPlugin">
     <GROUP id="{3DE508DC-D249-32BE-63D5-C7292F3E9FD7}" name="Source">
       <FILE id="TPxPWr" name="PluginProcessor.cpp" compile="1" resource="0"
